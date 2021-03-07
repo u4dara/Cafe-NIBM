@@ -95,6 +95,12 @@
             <nil key="simulatedTopBarMetrics"/>
             <nil key="simulatedBottomBarMetrics"/>
             <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="DescriptionLabel" destination="s6a-ef-cJQ" id="rTy-XE-X5l"/>
+                <outlet property="ImageView" destination="D1e-uU-bGI" id="GQA-1p-3bQ"/>
+                <outlet property="PriceLabel" destination="rVc-WK-8Tv" id="zJq-5W-5NQ"/>
+                <outlet property="TitleLabel" destination="KRL-ay-phf" id="22Y-Fl-Qy9"/>
+            </connections>
             <point key="canvasLocation" x="131.8840579710145" y="-134.59821428571428"/>
         </view>
     </objects>
